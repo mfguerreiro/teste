@@ -1,5 +1,5 @@
 ---
-Titulo: "SME-XXXX: Adição de logs funcionais no fluxo de criação do pedido"
+Ttulo: "SME-XXXX: Adição de logs funcionais no fluxo de criação do pedido"
 ---
 O que foi feito?
 - [x] Adição de logs funcionais no fluxo de criação do pedido
